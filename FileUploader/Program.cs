@@ -13,6 +13,7 @@ namespace FileUploader
     {
         static void Main(string[] args)
         {
+            // test yousef
             //set tdscminio to MinIO server IPAddress(94.232.173.54  , 94.232.173.80) in  local dns 
             var endpoint = "tdscminio";
             var accessKey = "tdscminioadmin";
